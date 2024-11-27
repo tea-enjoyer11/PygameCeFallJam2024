@@ -1,0 +1,36 @@
+{
+    "images": {},
+    "animations": {
+        "idle": {
+            "offset": [0, 0],
+            "speed": 1.0,
+            "loop": true,
+            "frames": [1.8, 0.15]
+        },
+        "run": {
+            "offset": [0, 0],
+            "speed": 1.0,
+            "loop": true,
+            "frames": [0.09, 0.09, 0.09, 0.09, 0.09, 0.09, 0.09, 0.09]
+        },
+		"death": {
+			"offset": [0, 0],
+			"speed": 1.0,
+			"loop": false,
+			"frames": [0.2, 0.1, 0.1, 0.1]
+		},
+		"spawn": {
+			"offset": [0, 0],
+			"speed": 1.0,
+			"loop": false,
+			"frames": [0.2, 0.2, 0.2, 0.2, 0.2]
+		}
+    },
+    "file_path": "assets/entities/enemies/zombie",
+    "id": "zombie",
+    "offset": [5, 18],
+    "colorkey": [0, 0, 0],
+    "size": [20, 37],
+    "default": "spawn",
+    "samedir": false
+}

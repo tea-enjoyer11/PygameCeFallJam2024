@@ -1,0 +1,18 @@
+{
+    "images": {},
+    "animations": {
+        "default": {
+            "offset": [0, 0],
+            "speed": 1.0,
+            "loop": false,
+            "frames": [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+        }
+    },
+    "file_path": "assets/particles/leaf",
+    "id": "particles/leaf",
+    "offset": [0, 0],
+    "colorkey": [0, 0, 0],
+    "size": [8, 8],
+    "default": "default",
+    "samedir": true
+}

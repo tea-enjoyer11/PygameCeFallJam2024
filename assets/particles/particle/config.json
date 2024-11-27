@@ -1,0 +1,18 @@
+{
+    "images": {},
+    "animations": {
+        "default": {
+            "offset": [0, 0],
+            "speed": 1.0,
+            "loop": false,
+            "frames": [0.5, 0.5, 0.5, 0.5]
+        }
+    },
+    "file_path": "assets/particles/particle",
+    "id": "particles/particle",
+    "offset": [0, 0],
+    "colorkey": [0, 0, 0],
+    "size": [12, 12],
+    "default": "default",
+    "samedir": true
+}

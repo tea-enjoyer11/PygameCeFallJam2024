@@ -1,0 +1,18 @@
+{
+    "images": {},
+    "animations": {
+		"heal": {
+			"offset": [0, 0],
+			"speed": 1.0,
+			"loop": false,
+			"frames": [0.1, 0.1, 0.1, 0.1, 0.1]
+		}
+    },
+    "file_path": "assets/particles/heal",
+    "id": "particles-heal",
+    "offset": [0, 0],
+    "colorkey": [0, 0, 0],
+    "size": [5, 5],
+    "default": "heal",
+    "samedir": false
+}

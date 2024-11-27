@@ -1,0 +1,30 @@
+{
+    "images": {},
+    "animations": {
+        "idle": {
+            "offset": [0, 0],
+            "speed": 1.0,
+            "loop": true,
+            "frames": [1.8, 0.15]
+        },
+		"death": {
+			"offset": [0, 0],
+            "speed": 1.0,
+            "loop": false,
+            "frames": [0.2, 0.2, 0.2, 0.2]
+        },
+        "run": {
+            "offset": [0, 0],
+            "speed": 1.0,
+            "loop": true,
+            "frames": [0.09, 0.09, 0.09, 0.09, 0.09, 0.09, 0.09, 0.09]
+        }
+    },
+    "file_path": "assets/entities/player",
+    "id": "player",
+    "offset": [2, 18],
+    "colorkey": [0, 0, 0],
+    "size": [20, 37],
+    "default": "idle",
+    "samedir": false
+}

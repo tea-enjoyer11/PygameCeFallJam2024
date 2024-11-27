@@ -1,0 +1,20 @@
+{
+    "animations": {
+        "idle": {
+            "pixel_color": [255, 0, 0],
+			"len": 4
+        },
+        "run": {
+            "pixel_color": [255, 0, 0],
+			"len": 8
+        },
+		"death": {
+			"pixel_color": [255, 0, 0],
+			"len": 4
+		}
+    },
+    "file_path": "assets/entities/player/head_offsets",
+	"id": "player/head_offsets",
+    "colorkey": [0, 0, 0],
+    "size": [20, 37]
+}

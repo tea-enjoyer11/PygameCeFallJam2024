@@ -1,0 +1,24 @@
+{
+    "animations": {
+        "idle": {
+            "pixel_color": [255, 0, 0],
+			"len": 4
+        },
+        "run": {
+            "pixel_color": [255, 0, 0],
+			"len": 8
+        },
+		"death": {
+			"pixel_color": [255, 0, 0],
+			"len": 4
+		},
+		"spawn": {
+			"pixel_color": [255, 0, 0],
+			"len": 5
+		}
+    },
+    "file_path": "assets/entities/enemies/zombie/head_offsets",
+	"id": "enemies/zombie/head_offsets",
+    "colorkey": [0, 0, 0],
+    "size": [20, 37]
+}

@@ -1,0 +1,24 @@
+{
+    "images": {},
+    "animations": {
+        "idle": {
+            "offset": [0, 0],
+            "speed": 1.0,
+            "loop": true,
+            "frames": [1.0]
+        },
+        "hit": {
+            "offset": [0, 0],
+            "speed": 1.0,
+            "loop": false,
+            "frames": [0.05, 0.1, 0.05]
+        }
+    },
+    "file_path": "assets/entities/training_dummy",
+    "id": "entities/training_dummy",
+    "offset": [6, 10],
+    "colorkey": [0, 125, 255],
+    "size": [12, 17],
+    "default": "idle",
+    "samedir": false
+}
